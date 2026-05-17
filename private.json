@@ -1,0 +1,186 @@
+{
+  "last_updated": "2026-05-17T15:08:48.355155+00:00",
+  "total_rows": 21,
+  "categories": {
+    "🎮 Games": [
+      {
+        "Title": "R-ROMs Megathread",
+        "URL": "https://r-roms.github.io/",
+        "Description": "Collection of video game ROMs, allowing users to download and enjoy classic games.",
+        "Favicon Filename": "r-roms_github_e350f293.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🍣 Japanese (CI)": [
+      {
+        "Title": "Bilingual Manga",
+        "URL": "https://bilingualmanga.org/",
+        "Description": "Site offering bilingual manga to help users learn Japanese by comparing Japanese and English text.",
+        "Favicon Filename": "bilingualmanga_2d656613.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "DLRAW",
+        "URL": "https://dlraw.ac/",
+        "Description": "Site offering a collection of raw manga and comics for download.",
+        "Favicon Filename": "dlraw_ac_a7790743.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "MANGA ZIP",
+        "URL": "https://manga-zip.info/",
+        "Description": "Site for downloading raw manga in ZIP format.",
+        "Favicon Filename": "manga-zip_16c00967.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Raw Otaku",
+        "URL": "https://rawotaku.com/home/",
+        "Description": "Website offering raw manga and comics for download or online reading.",
+        "Favicon Filename": "rawotaku_36b02fa2.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Rawkuma",
+        "URL": "https://rawkuma.com/",
+        "Description": "Site for raw manga downloads, particularly for Japanese manga fans.",
+        "Favicon Filename": "rawkuma_fe76e8b7.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🎨 Design Inspiration": [
+      {
+        "Title": "RDLP (LP制作に特化)",
+        "URL": "https://rdlp.jp/",
+        "Description": "Japanese website specializing in landing page design and related resources.",
+        "Favicon Filename": "rdlp_jp_adc8129b.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Webframe",
+        "URL": "https://webframe.xyz/",
+        "Description": "Collection of modern and creative web design inspiration, showcasing UI and UX trends.",
+        "Favicon Filename": "webframe_22988c72.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Yanko Design",
+        "URL": "https://www.yankodesign.com/",
+        "Description": "Design-focused website showcasing innovative product designs, concepts, and prototypes.",
+        "Favicon Filename": "yankodesign_d7791210.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "📚 Books": [
+      {
+        "Title": "DownMagaz (Magazines Community)",
+        "URL": "https://downmagaz.net/",
+        "Description": "Community-driven platform for downloading digital magazines and periodicals.",
+        "Favicon Filename": "downmagaz_9a013f59.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "MagazineLib",
+        "URL": "https://magazinelib.com/",
+        "Description": "Website offering free downloads of various digital magazines and periodicals.",
+        "Favicon Filename": "",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "PDF Magazines Club",
+        "URL": "https://pdfmagazines.club/",
+        "Description": "Site providing free access to PDF versions of magazines from different categories.",
+        "Favicon Filename": "pdfmagazines_club_fd558313.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Rave Book Search",
+        "URL": "https://ravebooksearch.com/#gsc.tab=0",
+        "Description": "Search engine for finding free ebooks, audiobooks, and other media files.",
+        "Favicon Filename": "ravebooksearch_a5e67692.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🔍 Research": [
+      {
+        "Title": "DomainStack",
+        "URL": "https://domainstack.io/",
+        "Description": "Web-based tool for providing domain name search and analysis with data on availability and market trends.",
+        "Favicon Filename": "domainstack_437643a3.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "GetDayTrends",
+        "URL": "https://getdaytrends.com/",
+        "Description": "Web-based tool for tracking and analyzing daily trends across various topics and industries.",
+        "Favicon Filename": "getdaytrends_7a77ec28.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Google Trends",
+        "URL": "https://trends.google.com/trends/",
+        "Description": "Data visualization tool for exploring and analyzing the popularity of search queries over time.",
+        "Favicon Filename": "trends_google_0f6650db.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "SimilarWeb",
+        "URL": "https://www.similarweb.com/",
+        "Description": "Web analytics platform for providing traffic insights and competitive analysis for websites and digital markets.",
+        "Favicon Filename": "similarweb_6ddcb930.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Trends24 (Twitter Trends)",
+        "URL": "https://trends24.in/",
+        "Description": "Web-based tool for tracking real-time global Twitter trends and analyzing trending topics.",
+        "Favicon Filename": "trends24_in_3ceb7605.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🎧 Music & Audiobooks": [
+      {
+        "Title": "Custom Google CSE (audio search)",
+        "URL": "https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io#gsc.tab=0",
+        "Description": "Custom search engine tool for searching audio-related content on the web.",
+        "Favicon Filename": "cse_google_63efcfe9.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "AudiobookBay",
+        "URL": "https://audiobookbay.lu/",
+        "Description": "Website for downloading free audiobooks in various genres from a wide selection.",
+        "Favicon Filename": "audiobookbay_lu_f1b8fc4b.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Rave Audiobooks Search",
+        "URL": "https://ravebooksearch.com/index-audiobooks#gsc.tab=0",
+        "Description": "Search platform for discovering and accessing audiobooks across different categories.",
+        "Favicon Filename": "ravebooksearch_a5e67692.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ]
+  }
+}

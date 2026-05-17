@@ -1,0 +1,1512 @@
+{
+  "last_updated": "2026-05-17T15:08:48.352413+00:00",
+  "total_rows": 183,
+  "categories": {
+    "🔄 Frequently Used": [
+      {
+        "Title": "Duck.ai",
+        "URL": "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",
+        "Description": "An AI-powered chat tool integrated with DuckDuckGo, offering conversational answers and search results.",
+        "Favicon Filename": "duckduckgo_a5203e4a.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Gemini",
+        "URL": "https://gemini.google.com/app",
+        "Description": "Google’s AI platform for creating and managing custom models and building AI-powered applications.",
+        "Favicon Filename": "gemini_google_07f5b3e8.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "HiAnime",
+        "URL": "https://hianime.to/",
+        "Description": "Streaming platform for watching anime online, with a large collection of series and episodes.",
+        "Favicon Filename": "hianime_to_709c700e.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "HoloDex",
+        "URL": "https://holodex.net/",
+        "Description": "Website that aggregates and organizes live virtual events and streams, particularly focused on VTuber content.",
+        "Favicon Filename": "holodex_9d90ce9e.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "NotebookLM",
+        "URL": "https://notebooklm.google/",
+        "Description": "Cloud-based tool for managing and interacting with notes and AI-powered insights in a notebook format.",
+        "Favicon Filename": "notebooklm_google_9a9dd05a.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Perplexity",
+        "URL": "https://www.perplexity.ai/",
+        "Description": "AI-powered search engine that offers contextual answers by analyzing data from multiple sources.",
+        "Favicon Filename": "perplexity_de7c497f.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Reddit",
+        "URL": "https://www.reddit.com/",
+        "Description": "Popular social news aggregation and discussion website, featuring a wide variety of user-generated content and communities (subreddits).",
+        "Favicon Filename": "reddit_b351e42b.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Twitch",
+        "URL": "https://www.twitch.tv/",
+        "Description": "Live streaming platform primarily for gamers and content creators, with live broadcasts and interactive streams.",
+        "Favicon Filename": "twitch_3f04d228.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Youtube",
+        "URL": "https://www.youtube.com/",
+        "Description": "Largest video-sharing platform where users can upload, watch, and share videos on a variety of topics.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🤖 AI Tools": [
+      {
+        "Title": "AI Studio",
+        "URL": "https://aistudio.google.com/welcome",
+        "Description": "Google platform for building, training, and deploying machine learning models using a simplified interface.",
+        "Favicon Filename": "aistudio_google_505f08af.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Claude",
+        "URL": "https://claude.ai/",
+        "Description": "AI chatbot designed for interactive conversations and problem-solving in various fields.",
+        "Favicon Filename": "claude_98fe30ce.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Copilot",
+        "URL": "https://copilot.microsoft.com/",
+        "Description": "Microsoft tool that integrates AI to assist with writing, coding, and productivity tasks.",
+        "Favicon Filename": "copilot_microsoft_62810aea.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Coze",
+        "URL": "https://www.coze.com/",
+        "Description": "Platform offering AI-driven conversation tools designed to create interactive and engaging chats.",
+        "Favicon Filename": "coze_5f82c294.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Deepseek",
+        "URL": "https://www.deepseek.com/",
+        "Description": "Platform that combines AI and search to provide more personalized and deep insights based on user queries.",
+        "Favicon Filename": "deepseek_e8832df9.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Duck.ai",
+        "URL": "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",
+        "Description": "AI-powered chat tool integrated with DuckDuckGo, offering conversational answers and search results.",
+        "Favicon Filename": "duckduckgo_a5203e4a.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Free-LLM-API-Resources",
+        "URL": "https://github.com/cheahjs/free-llm-api-resources",
+        "Description": "GitHub repository offering free resources for working with Large Language Model APIs.",
+        "Favicon Filename": "github_1a81fbfb.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "FutureTools",
+        "URL": "https://www.futuretools.io/",
+        "Description": "Website providing resources and tools related to AI advancements and cutting-edge technology.",
+        "Favicon Filename": "futuretools_15b0c50c.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Gemini",
+        "URL": "https://gemini.google.com/app",
+        "Description": "Google’s AI platform for creating and managing custom models and building AI-powered applications.",
+        "Favicon Filename": "gemini_google_07f5b3e8.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Hugging Face",
+        "URL": "https://huggingface.co/spaces",
+        "Description": "Platform for AI model hosting, sharing, and collaborating on projects, particularly for natural language processing.",
+        "Favicon Filename": "huggingface_50f570bb.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Kimi",
+        "URL": "https://www.kimi.com/",
+        "Description": "AI-driven platform focused on simplifying business and marketing processes with intelligent tools.",
+        "Favicon Filename": "kimi_73df94d8.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Mistral",
+        "URL": "https://mistral.ai/",
+        "Description": "AI company developing open-weight models for various AI applications, including language models.",
+        "Favicon Filename": "mistral_aa345f4f.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "NotebookLM",
+        "URL": "https://notebooklm.google/",
+        "Description": "Cloud-based tool for managing and interacting with notes and AI-powered insights in a notebook format.",
+        "Favicon Filename": "notebooklm_google_9a9dd05a.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Perplexity",
+        "URL": "https://www.perplexity.ai/",
+        "Description": "AI-powered search engine that offers contextual answers by analyzing data from multiple sources.",
+        "Favicon Filename": "perplexity_de7c497f.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Qwen",
+        "URL": "https://chat.qwen.ai/",
+        "Description": "AI chatbot designed for conversational interactions and providing answers based on advanced natural language processing.",
+        "Favicon Filename": "chat_qwen_88e2229e.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Safe.ai",
+        "URL": "https://safe.ai/",
+        "Description": "Platform dedicated to providing safety solutions for AI systems and applications.",
+        "Favicon Filename": "safe_eb5bb34a.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Teach Anything",
+        "URL": "https://www.teach-anything.com/",
+        "Description": "Website offering interactive learning tools powered by AI, helping users learn a wide variety of subjects.",
+        "Favicon Filename": "teach-anything_18561f1f.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "WolframAlpha",
+        "URL": "https://www.wolframalpha.com/",
+        "Description": "Computational search engine that provides answers based on data and algorithms across numerous fields of study.",
+        "Favicon Filename": "wolframalpha_e4430c6d.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "📺 Streaming": [
+      {
+        "Title": "AnimeKai",
+        "URL": "https://animekai.to/home",
+        "Description": "Streaming platform for anime series with a variety of genres and episodes.",
+        "Favicon Filename": "animekai_to_e83d715e.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "AsiaFlix",
+        "URL": "https://asiaflix.net/",
+        "Description": "Streaming site offering a collection of Asian dramas, movies, and shows.",
+        "Favicon Filename": "asiaflix_96f7d343.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Bilibili",
+        "URL": "https://www.bilibili.com/",
+        "Description": "Chinese streaming platform known for anime, gaming, and creative content.",
+        "Favicon Filename": "bilibili_d2d7efd1.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Bilibili (TV)",
+        "URL": "https://www.bilibili.tv/en/",
+        "Description": "EN version of Bilibili, providing a variety of anime, dramas, and live shows for international audiences.",
+        "Favicon Filename": "bilibili_f2d47056.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Dramacools9",
+        "URL": "https://dramacools9.cam/",
+        "Description": "Website to stream and download Asian dramas and movies.",
+        "Favicon Filename": "dramacools9_cam_9665a2c8.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "FlixHQ",
+        "URL": "https://flixhq.click/",
+        "Description": "Free streaming site for movies and TV shows, offering various genres.",
+        "Favicon Filename": "",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "HiAnime (stream)",
+        "URL": "https://hianime.to/home",
+        "Description": "Streaming platform for anime with high-quality video options.",
+        "Favicon Filename": "hianime_to_709c700e.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "HydraHD",
+        "URL": "https://hydrahd.me/",
+        "Description": "Site providing HD streaming of TV shows, movies, and anime.",
+        "Favicon Filename": "hydrahd_0f44e12c.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Twitch (stream)",
+        "URL": "https://www.twitch.tv/",
+        "Description": "Live streaming platform primarily for gamers, with streams for other entertainment content.",
+        "Favicon Filename": "twitch_3f04d228.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "WatchAsians",
+        "URL": "https://watchasians.com.in/",
+        "Description": "Website for streaming Asian movies and TV shows, with subtitles available.",
+        "Favicon Filename": "watchasians_com_in_4fbf34a3.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Watchsomuch Movies",
+        "URL": "https://watchsomuch.to/Movies/",
+        "Description": "Platform for streaming movies and TV shows for free.",
+        "Favicon Filename": "watchsomuch_to_07ea1338.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Youtube (stream)",
+        "URL": "https://www.youtube.com/",
+        "Description": "Largest video-sharing platform where users can upload, watch, and share videos, including live streams.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🎤 Vtubers": [
+      {
+        "Title": "AsideAside Feed",
+        "URL": "https://asideaside.github.io/feed/#/",
+        "Description": "Platform for following various content through RSS feeds, featuring an easy-to-navigate interface.",
+        "Favicon Filename": "asideaside_github_4026b434.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Atodeyo VTuber",
+        "URL": "https://vtuber.atodeyo.com/",
+        "Description": "VTuber streaming platform showcasing live performances and events from various VTubers.",
+        "Favicon Filename": "vtuber_atodeyo_1abca46d.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "HoloDex (vtubers)",
+        "URL": "https://holodex.net/",
+        "Description": "website for discovering and following live streams and events from VTubers.",
+        "Favicon Filename": "holodex_9d90ce9e.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Runa-Archive",
+        "URL": "https://kekuwi.github.io/Runa-Archive/",
+        "Description": "An archive site dedicated to collecting VTuber content and streams.",
+        "Favicon Filename": "kekuwi_github_0769f0b3.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Vrabi",
+        "URL": "https://vrabi.net/",
+        "Description": "VTuber database and scheduling site, offering live stream schedules and event alerts.",
+        "Favicon Filename": "vrabi_4e8598d4.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "VT-Grid",
+        "URL": "https://vt-grid.com/",
+        "Description": "Platform providing a grid layout of VTuber streams, with easy access to schedules and live events.",
+        "Favicon Filename": "vt-grid_84a5c828.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "VTuberNewsDrop",
+        "URL": "https://vtubernewsdrop.com/",
+        "Description": "News platform dedicated to delivering the latest VTuber news, updates, and events.",
+        "Favicon Filename": "vtubernewsdrop_3a4d3832.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🎮 Games": [
+      {
+        "Title": "Augmented Steam",
+        "URL": "https://augmentedsteam.com/",
+        "Description": "Browser extension that enhances Steam's store page with extra features like price history and reviews.",
+        "Favicon Filename": "augmentedsteam_ccb754fa.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "HowLongToBeat",
+        "URL": "https://howlongtobeat.com/",
+        "Description": "Platform that tracks the completion times for video games, helping users estimate how long a game will take to finish.",
+        "Favicon Filename": "howlongtobeat_cc056f53.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "IsThereAnyDeal",
+        "URL": "https://isthereanydeal.com/",
+        "Description": "Website for tracking video game deals, bundles, and discounts across multiple platforms.",
+        "Favicon Filename": "isthereanydeal_e9b637ba.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "SteamDB",
+        "URL": "https://steamdb.info/",
+        "Description": "Database and community site that tracks Steam games, prices, and discounts.",
+        "Favicon Filename": "steamdb_a209cb8f.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🇯🇵 Learn Japanese": [
+      {
+        "Title": "Duolingo",
+        "URL": "https://www.duolingo.com/learn",
+        "Description": "Language learning platform offering interactive lessons for various languages, including Japanese.",
+        "Favicon Filename": "duolingo_3366dd24.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "IMABI",
+        "URL": "https://imabi.org/",
+        "Description": "Comprehensive Japanese language learning website with detailed grammar explanations.",
+        "Favicon Filename": "imabi_5b2eedd7.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "JLPT Grammar (日本語NET)",
+        "URL": "https://nihongokyoshi-net.com/jlpt-grammars/",
+        "Description": "Site providing resources for studying Japanese grammar, particularly for JLPT preparation.",
+        "Favicon Filename": "nihongokyoshi-net_37c4716e.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "LearningJapaneseResources (GitHub)",
+        "URL": "https://github.com/GaijinRyman/LearningJapaneseResources",
+        "Description": "GitHub repository with various resources for learning Japanese, including grammar and vocabulary.",
+        "Favicon Filename": "github_1a81fbfb.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Takoboto (Japanese Grammar)",
+        "URL": "https://takoboto.jp/",
+        "Description": "Japanese dictionary and grammar tool for learners, offering a variety of resources.",
+        "Favicon Filename": "takoboto_jp_63159439.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Tatsumoto Ren (site)",
+        "URL": "https://tatsumoto-ren.github.io/",
+        "Description": "Personal site offering Japanese language resources, focusing on grammar and study tips.",
+        "Favicon Filename": "",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "The Resources (Kuzuri)",
+        "URL": "https://kuzuri.neocities.org/resources",
+        "Description": "Collection of resources for learning Japanese, including tools and guides.",
+        "Favicon Filename": "",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Tofugu Japanese Grammar Index",
+        "URL": "https://www.tofugu.com/japanese-grammar/",
+        "Description": "Comprehensive guide to Japanese grammar from the Tofugu website.",
+        "Favicon Filename": "tofugu_e22ac69c.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🍣 Japanese (CI)": [
+      {
+        "Title": "4Gamer",
+        "URL": "https://www.4gamer.net/",
+        "Description": "Japanese site focused on gaming news, reviews, and industry updates.",
+        "Favicon Filename": "4gamer_ba19a305.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Famitsu",
+        "URL": "https://www.famitsu.com/",
+        "Description": "Popular Japanese gaming news and magazine site, featuring reviews, interviews, and updates on gaming culture.",
+        "Favicon Filename": "famitsu_a7dff412.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Kakuyomu",
+        "URL": "https://kakuyomu.jp/",
+        "Description": "Japanese writing platform for sharing and reading user-generated stories and novels.",
+        "Favicon Filename": "kakuyomu_jp_4a46d9b2.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "MangaReader",
+        "URL": "https://mangareader.to/",
+        "Description": "Platform for reading manga online with various genres and updates.",
+        "Favicon Filename": "mangareader_to_c4946d3e.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Syosetu / Hameln",
+        "URL": "https://syosetu.org/",
+        "Description": "Japanese online platform for reading and sharing novels, including user-written light novels.",
+        "Favicon Filename": "syosetu_86095ee4.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Ttsu Reader",
+        "URL": "https://reader.ttsu.app/",
+        "Description": "Web-based manga reader for various manga series, allowing users to read them online.",
+        "Favicon Filename": "reader_ttsu_3f33e1ab.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🎨 Design Inspiration": [
+      {
+        "Title": "Awwwards",
+        "URL": "https://www.awwwards.com/websites/",
+        "Description": "Platform that recognizes and showcases the best web design, creativity, and innovation worldwide.",
+        "Favicon Filename": "awwwards_2f588286.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Curated.Design",
+        "URL": "https://www.curated.design/",
+        "Description": "Site featuring a collection of inspiring web design resources, tools, and showcases.",
+        "Favicon Filename": "curated_design_753163e2.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "HTTPster",
+        "URL": "https://httpster.net/",
+        "Description": "Platform that curates interesting and creative websites with a focus on design and innovation.",
+        "Favicon Filename": "",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Landbook",
+        "URL": "https://land-book.com/",
+        "Description": "Collection of beautiful landing pages and websites for design inspiration.",
+        "Favicon Filename": "land-book_7b264208.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "LandingFolio",
+        "URL": "https://www.landingfolio.com/",
+        "Description": "Website showcasing high-quality landing page designs for inspiration and design ideas.",
+        "Favicon Filename": "landingfolio_1cfc5e54.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Lapa Ninja",
+        "URL": "https://www.lapa.ninja/",
+        "Description": "Website providing a curated collection of landing page designs for inspiration.",
+        "Favicon Filename": "lapa_ninja_75bd0d56.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Pinterest",
+        "URL": "https://www.pinterest.com/",
+        "Description": "Social media platform that allows users to discover, share, and save creative ideas through images and links.",
+        "Favicon Filename": "pinterest_5509f661.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🛠️ Design Tools": [
+      {
+        "Title": "Favicon Generator",
+        "URL": "https://favicongenerator.io/",
+        "Description": "Tool that allows users to create and customize favicons for websites.",
+        "Favicon Filename": "favicongenerator_88608cea.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "OCR Tool",
+        "URL": "https://ocrtool.net/",
+        "Description": "Online optical character recognition tool for converting scanned images and PDFs into editable text.",
+        "Favicon Filename": "ocrtool_6b3dfe70.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "QR Code Generator (goqr.me)",
+        "URL": "https://goqr.me/",
+        "Description": "Website that generates QR codes for links, text, and other content.",
+        "Favicon Filename": "",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Relume",
+        "URL": "https://www.relume.io/",
+        "Description": "Design tool that helps create responsive websites and design systems quickly.",
+        "Favicon Filename": "relume_8c75ff16.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Remove.bg",
+        "URL": "https://www.remove.bg/",
+        "Description": "Tool that removes backgrounds from images automatically and instantly.",
+        "Favicon Filename": "remove_bg_2dd6f6ab.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Tiny Eraser",
+        "URL": "https://www.tinyeraser.com/en",
+        "Description": "Online tool for removing unwanted objects or backgrounds from images.",
+        "Favicon Filename": "tinyeraser_1b8c5fe9.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "TinyPNG",
+        "URL": "https://tinypng.com/",
+        "Description": "Website that compresses and optimizes PNG and JPEG images without compromising quality.",
+        "Favicon Filename": "tinypng_46750931.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "UX Tools",
+        "URL": "https://uxtools.co/",
+        "Description": "Resource hub for UX designers, offering tools, resources, and inspiration for user experience design.",
+        "Favicon Filename": "uxtools_9506fb51.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "💻 Learn Web Dev / Programming": [
+      {
+        "Title": "30 Seconds of Code",
+        "URL": "https://www.30secondsofcode.org/",
+        "Description": "Web-based resource for learning small and reusable coding snippets for web development and programming.",
+        "Favicon Filename": "30secondsofcode_51ef9d7f.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Codrops",
+        "URL": "https://tympanus.net/codrops/",
+        "Description": "Web design blog for providing tutorials, inspiration, and demos on front-end techniques.",
+        "Favicon Filename": "tympanus_b141b3ce.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "CS50 Python",
+        "URL": "https://cs50.harvard.edu/python/2022/",
+        "Description": "Online course platform for learning Python programming with practical problem-solving exercises.",
+        "Favicon Filename": "cs50_harvard_edu_3956d0a4.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Exercism",
+        "URL": "https://exercism.org/",
+        "Description": "Coding practice platform for solving exercises and receiving mentorship in various programming languages.",
+        "Favicon Filename": "exercism_0553e954.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Frontend Mentor",
+        "URL": "https://www.frontendmentor.io/",
+        "Description": "Project-based platform for improving front-end skills with real-world coding challenges.",
+        "Favicon Filename": "frontendmentor_3d4515c1.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "The Odin Project",
+        "URL": "https://www.theodinproject.com/",
+        "Description": "Open-source platform for learning full-stack web development through structured projects and courses.",
+        "Favicon Filename": "theodinproject_d4748a41.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Udemy",
+        "URL": "https://www.udemy.com/",
+        "Description": "Online learning platform for taking courses on a variety of subjects, including programming and web development.",
+        "Favicon Filename": "udemy_fcb23826.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🌐 WebDev Misc": [
+      {
+        "Title": "AllTheTags",
+        "URL": "https://allthetags.com/",
+        "Description": "Book search platform for discovering books by genre, themes, and other metadata tags.",
+        "Favicon Filename": "allthetags_705330ac.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "AppDevTools",
+        "URL": "https://appdevtools.com/",
+        "Description": "Web-based tool for providing resources, tutorials, and utilities for mobile and app developers.",
+        "Favicon Filename": "appdevtools_88ff1afd.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Built At LightSpeed",
+        "URL": "https://www.builtatlightspeed.com/",
+        "Description": "Website showcasing web and mobile applications built with modern design and development techniques.",
+        "Favicon Filename": "builtatlightspeed_ec1b8fd3.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Bulk Resize Photos",
+        "URL": "https://bulkresizephotos.com/en",
+        "Description": "Web tool for batch resizing images quickly and efficiently.",
+        "Favicon Filename": "bulkresizephotos_003efe4a.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "CSS Reference",
+        "URL": "https://cssreference.io/",
+        "Description": "Online reference guide for CSS properties and their usage with visual examples.",
+        "Favicon Filename": "cssreference_bca283ef.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "CSS-Tricks",
+        "URL": "https://css-tricks.com/",
+        "Description": "Web development blog offering tutorials, tips, and techniques for mastering CSS and front-end design.",
+        "Favicon Filename": "css-tricks_74cf7728.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "DevHints",
+        "URL": "https://devhints.io/",
+        "Description": "Quick reference site providing concise cheat sheets for various programming languages and tools.",
+        "Favicon Filename": "devhints_bd29b574.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "html2pdf.js (EKoopmans)",
+        "URL": "https://ekoopmans.github.io/html2pdf.js/",
+        "Description": "Open-source library for converting HTML content into PDF documents using JavaScript.",
+        "Favicon Filename": "",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "OverAPI",
+        "URL": "https://overapi.com/",
+        "Description": "Online reference platform offering cheat sheets and documentation for programming languages and frameworks.",
+        "Favicon Filename": "overapi_add7ac7e.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "QR Code Generator (Marko Denic)",
+        "URL": "https://markodenic.com/tools/qr-code-generator/",
+        "Description": "Web-based tool for generating customizable QR codes for URLs, text, and other content.",
+        "Favicon Filename": "markodenic_004d9f47.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Watermarkly (Compress JPEG)",
+        "URL": "https://watermarkly.com/compress-jpeg/",
+        "Description": "Image compression tool for reducing the file size of JPEG images without losing quality.",
+        "Favicon Filename": "watermarkly_3f23e3c0.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🔀 Misc": [
+      {
+        "Title": "CTRL-F-VIDEO (GitHub)",
+        "URL": "https://github.com/Evan-Wildenhain/CTRL-F-VIDEO",
+        "Description": "GitHub repository for a tool that helps find specific moments in videos using keywords.",
+        "Favicon Filename": "github_1a81fbfb.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "End of Life Date",
+        "URL": "https://endoflife.date/",
+        "Description": "Website for tracking end-of-life dates of software, programming languages, and operating systems.",
+        "Favicon Filename": "endoflife_date_c3baea5c.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Filmot",
+        "URL": "https://filmot.com/",
+        "Description": "Movie discovery site for organizing and finding films based on genre, director, and release year.",
+        "Favicon Filename": "filmot_8f339c63.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Playlists.at",
+        "URL": "https://playlists.at/",
+        "Description": "Web-based tool for creating and sharing collaborative playlists across music streaming platforms.",
+        "Favicon Filename": "playlists_at_9c0f3f9b.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Reddit — InternetIsBeautiful",
+        "URL": "https://www.reddit.com/r/InternetIsBeautiful/",
+        "Description": "Reddit community for showcasing interesting and creative websites across the internet.",
+        "Favicon Filename": "reddit_b351e42b.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Reddit — SideProject",
+        "URL": "https://www.reddit.com/r/SideProject/",
+        "Description": "Reddit community for sharing and discussing side projects and startup ideas.",
+        "Favicon Filename": "reddit_b351e42b.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Winstall",
+        "URL": "https://winstall.app/",
+        "Description": "Web-based tool for installing Windows apps via winget with a curated list of software.",
+        "Favicon Filename": "winstall_f52f5c4a.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "📖 Read": [
+      {
+        "Title": "daily.dev App",
+        "URL": "https://app.daily.dev/",
+        "Description": "Web-based app for delivering a daily feed of developer news and programming resources.",
+        "Favicon Filename": "app_daily_483caf1b.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Hackaday",
+        "URL": "https://hackaday.com/",
+        "Description": "Website for showcasing DIY projects, hardware hacks, and programming tutorials.",
+        "Favicon Filename": "hackaday_6dc65982.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Hacker News",
+        "URL": "https://news.ycombinator.com/",
+        "Description": "Community-driven platform for sharing and discussing tech news, startups, and programming topics.",
+        "Favicon Filename": "news_ycombinator_35b77a9a.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "InboxReads",
+        "URL": "https://inboxreads.co/",
+        "Description": "Platform for discovering and reading interesting email newsletters across various topics.",
+        "Favicon Filename": "inboxreads_30ffd87b.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "News Minimalist",
+        "URL": "https://www.newsminimalist.com/",
+        "Description": "Simple news website for consuming daily news with a minimalist design and focused content.",
+        "Favicon Filename": "newsminimalist_cbeaef35.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Panda (app.usepanda)",
+        "URL": "https://app.usepanda.com/#/",
+        "Description": "Web-based tool for discovering and organizing curated web content to share with others.",
+        "Favicon Filename": "app_usepanda_93877d2c.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Readsom",
+        "URL": "https://readsom.com/",
+        "Description": "Book discovery site for finding new books and reading recommendations based on user preferences.",
+        "Favicon Filename": "readsom_b5f49bb3.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "The Brutalist Report",
+        "URL": "https://brutalist.report/",
+        "Description": "Website for providing design inspiration from brutalist architecture applied to web design.",
+        "Favicon Filename": "brutalist_report_ffccccb4.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "TLDR Tech",
+        "URL": "https://tldr.tech/",
+        "Description": "Platform for delivering quick, concise summaries of the latest technology news and articles.",
+        "Favicon Filename": "",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "📚 Books": [
+      {
+        "Title": "Anna’s Archive",
+        "URL": "https://annas-archive.org/",
+        "Description": "Digital library offering free access to millions of books, articles, and academic papers.",
+        "Favicon Filename": "annas-archive_48ecc005.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Libgen",
+        "URL": "https://libgen.is/",
+        "Description": "Popular platform for accessing free digital copies of books, academic papers, and articles.",
+        "Favicon Filename": "",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Sci-Hub",
+        "URL": "https://sci-hub.se/",
+        "Description": "Website providing free access to academic journal articles and papers, bypassing paywalls.",
+        "Favicon Filename": "sci-hub_se_e8833cbe.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Z-Library",
+        "URL": "https://z-library.sk/",
+        "Description": "Online resource offering free access to a vast collection of ebooks, articles, and academic papers.",
+        "Favicon Filename": "z-library_sk_b4d06f9b.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🛒 Recipe Shopping": [
+      {
+        "Title": "Adam Ragusea",
+        "URL": "https://www.youtube.com/@aragusea",
+        "Description": "YouTube channel for educational videos on food, cooking techniques, and culinary exploration.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "America's Test Kitchen",
+        "URL": "https://www.americastestkitchen.com/",
+        "Description": "Cooking website for offering recipes, cooking techniques, and kitchen product reviews.",
+        "Favicon Filename": "americastestkitchen_7e914f05.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Binging with Babish",
+        "URL": "https://www.youtube.com/@bingingwithbabish",
+        "Description": "YouTube channel for recreating dishes from movies and TV shows with step-by-step tutorials.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Bon Appétit",
+        "URL": "https://www.bonappetit.com/",
+        "Description": "Cooking website for offering a wide range of recipes, cooking techniques, and kitchen advice.",
+        "Favicon Filename": "bonappetit_39b21f1a.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Brian Lagerstrom",
+        "URL": "https://www.youtube.com/@BrianLagerstrom",
+        "Description": "YouTube channel for cooking tutorials, meal prep, and culinary tips for home cooks.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Budget Bytes",
+        "URL": "https://www.budgetbytes.com/",
+        "Description": "Website for offering affordable and easy-to-follow recipes for budget-conscious cooks.",
+        "Favicon Filename": "budgetbytes_d5813ddb.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "HelloFresh Recipes",
+        "URL": "https://www.hellofresh.com/recipes",
+        "Description": "Meal kit service for providing a variety of recipes with detailed step-by-step instructions.",
+        "Favicon Filename": "hellofresh_93533db8.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Jacob Burton (YouTube)",
+        "URL": "https://www.youtube.com/channel/UCpPsrEZJFKKelnKzjHLl1bg",
+        "Description": "YouTube channel for cooking tutorials and tips focused on gourmet meals.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Japanese Cooking Channel (YouTube)",
+        "URL": "https://www.youtube.com/@JapaneseCookingChannel",
+        "Description": "YouTube channel for teaching Japanese cooking with practical recipes and techniques.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Just One Cookbook",
+        "URL": "https://www.justonecookbook.com/",
+        "Description": "Recipe website for offering authentic Japanese dishes with step-by-step instructions.",
+        "Favicon Filename": "justonecookbook_2fbbbf81.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Latifs Inspired",
+        "URL": "https://www.youtube.com/@latifsinspired",
+        "Description": "YouTube channel for offering cooking inspiration, tutorials, and recipes from around the world.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Maangchi (YouTube)",
+        "URL": "https://www.youtube.com/@Maangchi",
+        "Description": "YouTube channel for teaching Korean cooking with easy-to-follow recipes and techniques.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Made with Lau",
+        "URL": "https://www.madewithlau.com/",
+        "Description": "Website for providing Chinese cooking tutorials and family recipes with detailed instructions.",
+        "Favicon Filename": "madewithlau_d96e1d8e.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Middle Eats",
+        "URL": "https://www.youtube.com/@middleeats",
+        "Description": "YouTube channel for offering Middle Eastern recipes and cooking tutorials.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Milk Street",
+        "URL": "https://www.177milkstreet.com/",
+        "Description": "Cooking website for offering global recipes, cooking techniques, and culinary tips.",
+        "Favicon Filename": "177milkstreet_d2db32e4.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "NY Times Cooking",
+        "URL": "https://cooking.nytimes.com/",
+        "Description": "Subscription-based cooking site for offering a vast collection of recipes and cooking advice.",
+        "Favicon Filename": "cooking_nytimes_048eb492.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "NYT Chocolate Chip Cookies",
+        "URL": "https://cooking.nytimes.com/recipes/1015819-chocolate-chip-cookies",
+        "Description": "Recipe page for making chocolate chip cookies with instructions from the New York Times.",
+        "Favicon Filename": "cooking_nytimes_048eb492.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "RecipeTin Eats",
+        "URL": "https://www.recipetineats.com/",
+        "Description": "Food blog for offering easy and accessible recipes for home cooks with detailed instructions.",
+        "Favicon Filename": "recipetineats_3c47ab22.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Sudachi Recipes (YouTube)",
+        "URL": "https://www.youtube.com/@SudachiRecipes",
+        "Description": "YouTube channel for teaching Japanese home cooking with practical recipes and tips.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Tasty",
+        "URL": "https://tasty.co/",
+        "Description": "Food platform for offering quick and easy recipes with step-by-step instructions in video format.",
+        "Favicon Filename": "tasty_0e2f2b1d.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "The Woks of Life",
+        "URL": "https://thewoksoflife.com/",
+        "Description": "Family-run food blog for offering authentic Chinese recipes with detailed instructions.",
+        "Favicon Filename": "thewoksoflife_2fac734a.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "📊 Tracking": [
+      {
+        "Title": "Backloggd",
+        "URL": "https://backloggd.com/",
+        "Description": "Social platform for tracking video games in a personal backlog and sharing reviews and ratings with other users.",
+        "Favicon Filename": "backloggd_03851c60.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Letterboxd",
+        "URL": "https://letterboxd.com/",
+        "Description": "Social platform for movie lovers to track, review, and share film ratings and lists.",
+        "Favicon Filename": "letterboxd_9cdb5bd3.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "MyAnimeList",
+        "URL": "https://myanimelist.net/",
+        "Description": "Social network for anime fans to track, rate, and review anime and manga series.",
+        "Favicon Filename": "myanimelist_cbf9a356.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "MyDramaList",
+        "URL": "https://mydramalist.com/",
+        "Description": "Online platform for tracking, rating, and reviewing Asian dramas and movies.",
+        "Favicon Filename": "mydramalist_f5208337.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "TheStoryGraph",
+        "URL": "https://app.thestorygraph.com/",
+        "Description": "Book tracking site for organizing, reviewing, and discovering books with personalized recommendations.",
+        "Favicon Filename": "app_thestorygraph_5dce4d8c.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "💪 Workouts": [
+      {
+        "Title": "7-Minute Workout YouTube",
+        "URL": "https://www.youtube.com/watch?v=ECxYJcnvyMw",
+        "Description": "YouTube video offering a quick, 7-minute workout routine to improve fitness with minimal equipment.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Boostcamp App",
+        "URL": "https://www.boostcamp.app/",
+        "Description": "Fitness app providing guided workout plans and progress tracking for users looking to improve their fitness.",
+        "Favicon Filename": "boostcamp_78ca0fd6.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Darebee",
+        "URL": "https://darebee.com/",
+        "Description": "Fitness platform offering free workout routines, challenges, and fitness programs for all levels.",
+        "Favicon Filename": "darebee_99ad2073.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Darebee 30 Days of Cardio (Light)",
+        "URL": "https://darebee.com/programs/30-days-of-cardio-light.html",
+        "Description": "Fitness program providing a 30-day cardio workout routine designed for beginners.",
+        "Favicon Filename": "darebee_99ad2073.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Muscle & Strength Workout Routines",
+        "URL": "https://www.muscleandstrength.com/workout-routines",
+        "Description": "Fitness website offering a collection of workout routines for building muscle and strength.",
+        "Favicon Filename": "muscleandstrength_e6d2be82.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Reddit Calisthenics 3-Month Program",
+        "URL": "https://www.reddit.com/r/CalisthenicsCulture/comments/1e5l3p4/heres_a_threemonth_calisthenics_training_program/",
+        "Description": "Reddit post offering a 3-month calisthenics workout program for strength training.",
+        "Favicon Filename": "reddit_b351e42b.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Reddit Yoga Resources",
+        "URL": "https://www.reddit.com/r/yoga/comments/1hp4bgh/new_to_yoga_ryoga_looking_for_resources_or_2025/",
+        "Description": "Reddit thread providing resources for beginners interested in starting yoga practice.",
+        "Favicon Filename": "reddit_b351e42b.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "SquatWolf Calisthenics Beginner",
+        "URL": "https://squatwolf.com/blogs/fitness/calisthenics-beginners",
+        "Description": "Fitness guide offering tips and beginner-friendly calisthenics workout routines.",
+        "Favicon Filename": "squatwolf_a95a6949.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "WebMD 7-Minute Workout",
+        "URL": "https://www.webmd.com/fitness-exercise/ss/the-7-minute-workout-slideshow",
+        "Description": "Fitness guide offering a simple, 7-minute workout routine for improving physical health.",
+        "Favicon Filename": "webmd_95b7f699.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🧴 Skin Care": [
+      {
+        "Title": "Tina Tanaka Harris (YouTube)",
+        "URL": "https://www.youtube.com/@TinaTanakaHarris/",
+        "Description": "YouTube channel offering beauty tutorials, lifestyle advice, and skincare tips.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Shereene Idriss? (channel unknown)",
+        "URL": "https://www.youtube.com/channel/UCnxmUrGMtpQT844Yd_l7Zyg",
+        "Description": "YouTube channel providing dermatology insights, skincare tips, and educational content.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Lab Muffin Beauty Science",
+        "URL": "https://www.youtube.com/c/LabMuffinBeautyScience",
+        "Description": "YouTube channel offering scientific explanations of beauty products and skincare routines.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "James Welsh (YouTube)",
+        "URL": "https://www.youtube.com/@JamesWelsh",
+        "Description": "YouTube channel providing skincare routines, tips, and beauty product reviews.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Chemist Confessions",
+        "URL": "https://www.youtube.com/@ChemistConfessions",
+        "Description": "YouTube channel offering skincare advice based on scientific knowledge of ingredients and formulations.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Skincare Addiction Wiki (Reddit)",
+        "URL": "https://www.reddit.com/r/SkincareAddiction/wiki/index",
+        "Description": "Wiki resource on Reddit providing comprehensive information on skincare routines and products.",
+        "Favicon Filename": "reddit_b351e42b.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "AsianBeauty Masterlists (Reddit)",
+        "URL": "https://www.reddit.com/r/AsianBeauty/wiki/masterlists",
+        "Description": "Reddit page featuring masterlists of Asian beauty products, skincare routines, and advice.",
+        "Favicon Filename": "reddit_b351e42b.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "The Budget Dermatologist (YouTube)",
+        "URL": "https://www.youtube.com/@TheBudgetDermatologist",
+        "Description": "YouTube channel offering dermatology advice with a focus on affordable skincare solutions.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Shereene Idriss (YouTube)",
+        "URL": "https://www.youtube.com/@shereeneidriss",
+        "Description": "YouTube channel providing expert skincare advice from a dermatologist’s perspective.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Doctorly (YouTube)",
+        "URL": "https://www.youtube.com/@Doctorly",
+        "Description": "YouTube channel offering dermatology advice, focusing on skin health and expert skincare routines.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Dr Sam Ellis (YouTube)",
+        "URL": "https://www.youtube.com/@DrSamEllis",
+        "Description": "YouTube channel providing skincare education with a focus on dermatological advice and treatments.",
+        "Favicon Filename": "youtube_d5eac209.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🎧 Music & Audiobooks": [
+      {
+        "Title": "YouTube Music",
+        "URL": "https://music.youtube.com/",
+        "Description": "Music streaming platform offering a vast library of songs, albums, and personalized playlists.",
+        "Favicon Filename": "music_youtube_1c024e9a.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Radio Garden",
+        "URL": "https://radio.garden/",
+        "Description": "Web-based tool for listening to live radio broadcasts from around the world with an interactive map.",
+        "Favicon Filename": "radio_garden_bc259179.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "myNoise",
+        "URL": "https://mynoise.net/",
+        "Description": "Sound generator website offering customizable background noise for relaxation, focus, or sleep.",
+        "Favicon Filename": "mynoise_e5fbeccf.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "A Soft Murmur",
+        "URL": "https://asoftmurmur.com/",
+        "Description": "Web-based tool for generating ambient sounds to help users relax or focus.",
+        "Favicon Filename": "asoftmurmur_3000149c.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🔐 Online Security": [
+      {
+        "Title": "Cybernews Personal Data Leak Checker",
+        "URL": "https://cybernews.com/personal-data-leak-check/",
+        "Description": "Web-based tool for checking personal data leaks in known breaches.",
+        "Favicon Filename": "cybernews_e6080313.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Have I Been Pwned",
+        "URL": "https://haveibeenpwned.com/",
+        "Description": "Online service for checking if personal email addresses are involved in data breaches.",
+        "Favicon Filename": "haveibeenpwned_046e5854.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Hybrid Analysis (Falcon Sandbox)",
+        "URL": "https://www.hybrid-analysis.com/",
+        "Description": "Malware analysis platform for detecting malicious files and URLs using dynamic sandboxing.",
+        "Favicon Filename": "hybrid-analysis_2af76af6.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Jotti's Malware Scan",
+        "URL": "https://virusscan.jotti.org/",
+        "Description": "Web-based tool for scanning files with multiple antivirus engines to detect malware.",
+        "Favicon Filename": "virusscan_jotti_99b48ec6.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Kaspersky Threat Intelligence Portal (OpenTIP)",
+        "URL": "https://opentip.kaspersky.com/",
+        "Description": "Threat intelligence platform for accessing security reports and data from Kaspersky’s research team.",
+        "Favicon Filename": "opentip_kaspersky_ed7ef654.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Metadefender OPSWAT",
+        "URL": "https://metadefender.opswat.com/",
+        "Description": "Online service for scanning files, URLs, and IP addresses to detect security threats.",
+        "Favicon Filename": "metadefender_opswat_2f3a0d9f.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "VirScan",
+        "URL": "https://www.virscan.org/",
+        "Description": "Malware scanning platform for analyzing files with multiple antivirus engines.",
+        "Favicon Filename": "virscan_c3d4069e.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "VirusTotal (Home upload)",
+        "URL": "https://www.virustotal.com/gui/home/upload",
+        "Description": "Web-based tool for analyzing files and URLs for security threats using multiple antivirus engines.",
+        "Favicon Filename": "virustotal_3128ec64.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ],
+    "🛡️ Privacy": [
+      {
+        "Title": "Hitchhiker's Guide (Anonymous Planet)",
+        "URL": "https://anonymousplanet.org/guide/",
+        "Description": "Guide for maintaining online privacy and anonymity while browsing the internet.",
+        "Favicon Filename": "anonymousplanet_bc7906c6.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "No Trace Project",
+        "URL": "https://www.notrace.how/",
+        "Description": "Resource for learning methods to protect online privacy and minimize digital footprints.",
+        "Favicon Filename": "notrace_how_55b46056.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Privacy Guides",
+        "URL": "https://www.privacyguides.org/",
+        "Description": "Website for offering privacy-focused recommendations and tools to protect personal data online.",
+        "Favicon Filename": "privacyguides_62472510.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Privacy Tools",
+        "URL": "https://privacytoolslist.com/",
+        "Description": "Online list of privacy-focused software and tools to safeguard users' personal data.",
+        "Favicon Filename": "",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "Surveillance Self-Defense (EFF)",
+        "URL": "https://ssd.eff.org/",
+        "Description": "Guide for protecting privacy and security from surveillance through digital self-defense techniques.",
+        "Favicon Filename": "ssd_eff_1a33e1ba.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "The New Oil",
+        "URL": "https://thenewoil.org/en/",
+        "Description": "Platform for educating users about data privacy and advocating for ethical data management practices.",
+        "Favicon Filename": "thenewoil_e3ec88ac.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "The Second Opinion",
+        "URL": "https://jijirae.github.io/thesecondopinion/index.html",
+        "Description": "Resource for providing an alternative view on healthcare news, with a focus on privacy and research.",
+        "Favicon Filename": "jijirae_github_8fcc649e.png",
+        "Tags": "",
+        "Priority": ""
+      },
+      {
+        "Title": "URLVoid",
+        "URL": "https://www.urlvoid.com/",
+        "Description": "Web-based tool for analyzing and evaluating websites for potential security risks.",
+        "Favicon Filename": "urlvoid_71d12ccc.png",
+        "Tags": "",
+        "Priority": ""
+      }
+    ]
+  }
+}
