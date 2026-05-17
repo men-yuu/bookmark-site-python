@@ -1,6 +1,5 @@
-# Contents
+## Contents
 
-**Bookmark Enrichment**
 This repository contains:
 - `bookmark-enrich.py`, a script for enriching bookmarks with status checks, title extraction, favicon discovery, metadata extraction, and description generation.
 - `encrypt-private-json.py`, a script to encrypt private.json files
